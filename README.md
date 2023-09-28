@@ -1,0 +1,2 @@
+# filenameOuputDir
+ディレクトリ内にあるファイル群の名前をテキストへ出力outputする。
